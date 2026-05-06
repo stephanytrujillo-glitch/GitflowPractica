@@ -24,8 +24,16 @@ Ejecuta el siguiente comando para validar el README:
 
 ## Flujo de trabajo Git
 
-(Pendiente)
+Se usó Git Flow con las siguientes ramas:
+- main: rama estable del proyecto
+- develop: rama de integración
+- feature/readme-base: estructura inicial del README
+- feature/documentacion-extra: documentación completa
+- release/v1.0.0: preparación de la versión estable
 
 ## Evidencias
 
-(Pendiente)
+- Repositorio: https://github.com/stephanytrujillo-glitch/GitflowPractica
+- Pull Request 1: estructura inicial del README fusionado a develop
+- Pull Request 2: documentación extra fusionada a develop
+- Rama release/v1.0.0 creada y publicada en GitHub 
