@@ -1,10 +1,12 @@
-# Git Flow Practica
+# Nombre del Proyecto
 
-## Descripcion
+Git Flow Practica
+
+## Descripción
 
 Practica para aprender a usar Git Flow, un flujo de trabajo con ramas que organiza el desarrollo usando main, develop, feature, release y hotfix.
 
-## Instalacion
+## Instalación
 
 1. Clona el repositorio:
    git clone https://github.com/stephanytrujillo-glitch/GitflowPractica.git
