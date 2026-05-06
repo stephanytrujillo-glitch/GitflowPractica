@@ -1,4 +1,4 @@
-# Nombre del Proyecto
+# Nombre del proyecto 
 
 ## Descripción
 
@@ -6,15 +6,21 @@ Práctica para aprender a usar Git Flow, un flujo de trabajo con ramas que organ
 
 ## Instalación
 
-(Pendiente)
+1. Clona el repositorio:
+   git clone https://github.com/stephanytrujillo-glitch/GitflowPractica.git
+2. Entra a la carpeta:
+   cd GitflowPractica
+3. Instala las dependencias:
+   npm install
 
 ## Uso
 
-(Pendiente)
+Ejecuta el siguiente comando para validar el README:
+   npm run validate:readme
 
 ## Autores
 
-Stephany Trujillo
+- Stephany Trujillo
 
 ## Flujo de trabajo Git
 
