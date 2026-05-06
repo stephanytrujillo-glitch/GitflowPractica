@@ -30,6 +30,7 @@ Se usó Git Flow con las siguientes ramas:
 - feature/readme-base: estructura inicial del README
 - feature/documentacion-extra: documentación completa
 - release/v1.0.0: preparación de la versión estable
+- hotfix/readme-typo: rama para corregir errores urgentes desde main
 
 ## Evidencias
 
