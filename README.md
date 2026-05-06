@@ -1,4 +1,4 @@
-# Nombre del proyecto 
+# Git Flow - Práctica
 
 ## Descripción
 
