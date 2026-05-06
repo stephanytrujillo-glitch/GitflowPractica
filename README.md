@@ -1,10 +1,10 @@
 # Git Flow Practica
 
-## Descripción
+## Descripcion
 
-Práctica para aprender a usar Git Flow, un flujo de trabajo con ramas que organiza el desarrollo usando main, develop, feature, release y hotfix.
+Practica para aprender a usar Git Flow, un flujo de trabajo con ramas que organiza el desarrollo usando main, develop, feature, release y hotfix.
 
-## Instalación
+## Instalacion
 
 1. Clona el repositorio:
    git clone https://github.com/stephanytrujillo-glitch/GitflowPractica.git
@@ -24,17 +24,17 @@ Ejecuta el siguiente comando para validar el README:
 
 ## Flujo de trabajo Git
 
-Se usó Git Flow con las siguientes ramas:
+Se uso Git Flow con las siguientes ramas:
 - main: rama estable del proyecto
-- develop: rama de integración
+- develop: rama de integracion
 - feature/readme-base: estructura inicial del README
-- feature/documentacion-extra: documentación completa
-- release/v1.0.0: preparación de la versión estable
+- feature/documentacion-extra: documentacion completa
+- release/v1.0.0: preparacion de la version estable
 - hotfix/readme-typo: rama para corregir errores urgentes desde main
 
 ## Evidencias
 
 - Repositorio: https://github.com/stephanytrujillo-glitch/GitflowPractica
 - Pull Request 1: estructura inicial del README fusionado a develop
-- Pull Request 2: documentación extra fusionada a develop
-- Rama release/v1.0.0 creada y publicada en GitHub 
+- Pull Request 2: documentacion extra fusionada a develop
+- Rama release/v1.0.0 creada y publicada en GitHub
